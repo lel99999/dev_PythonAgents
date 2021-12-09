@@ -15,3 +15,6 @@ Agent Development Frameworks
   **agent** provides a simple decorator to create python 3.5 <br/> 
   [asynchronous iterators](https://docs.python.org/3/reference/compound_stmts.html#async-for) via `yield`s <br/>
 
+
+- [https://linux.die.net/man/1/goferd](https://linux.die.net/man/1/goferd) <br/>
+  ##### Gofer Agent is an extensible lightweight universal python agent that provides a remote API for running actions through RMI (Remote Method Invodation) <br/>
